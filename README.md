@@ -1,5 +1,4 @@
 # Representation with Feature Cross
-Machine Learning
 
 ## Intro
 
