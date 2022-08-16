@@ -41,4 +41,4 @@ The following hidden code cell ensures that the Colab will run on TensorFlow 2.X
   * `plot_the_loss_curve`, which generates a loss curve.
 
 ## Document
-[Copyright 2020 Google LLC](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/representation_with_a_feature_cross.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=representation_tf2-colab&hl=en#scrollTo=3014ezH3C7jT)
+Google LLC 2020
